@@ -50,7 +50,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        target: [Lienol_phicomm_k3]
+        target: [Project_phicomm_k3]
 
     steps:
     - name: 准备结束
